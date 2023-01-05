@@ -2,10 +2,10 @@
 DOMAIN,lf.dmesg.gq
 
 # > 流媒体Misakaf服务器
-DOMAIN,misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 
 # > 流媒体Misty服务器
-DOMAIN,misty.ltd
+DOMAIN-SUFFIX,misty.ltd
 
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
