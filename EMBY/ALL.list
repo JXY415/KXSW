@@ -3,6 +3,7 @@ DOMAIN,lf.dmesg.gq
 
 # > 流媒体Misakaf服务器
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN,cf2.misakaf.org
 
 # > 流媒体Misty服务器
 DOMAIN-SUFFIX,misty.ltd
